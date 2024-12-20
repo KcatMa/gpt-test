@@ -1,4 +1,4 @@
-# Events
+# Pi2 Events
 
 ## ETH Denver 2024
 
